@@ -4,7 +4,7 @@ pt file to engine file for tensorrt
 Work on export.py
 
 # Usage
-python export.py --weights your_yolo_model.pt --include onnx
+python3 export.py --weights your_yolo_model.pt --include onnx
 
 # Output
 
